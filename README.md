@@ -1,5 +1,7 @@
 # YAGPDB Custom Commands
 
+**Deprecated.** This repo has been merged with a duplicate YAGPDB custom commands repo and now lives at https://github.com/rp-magrathea/altair.
+
 ## What is this?
 
 The [YAGPDB Discord bot](yagpdb.xyz/) allows you to add custom functionality to the bot via "custom commands." What you'll find here is a set of custom commands meant to support RP sites' specific needs.
